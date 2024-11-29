@@ -1,8 +1,7 @@
 # Hi there, I'm Simeon 👋
 
 ## 🌟 About Me
-- 🎓 **Student at University of Benin**  
-- 🧮 **Mathematician**: Ranked in the top 10 in a mathematics competition.  
+- 🎓 **Student at University of Benin**    
 - 🌐 **Web Developer**: Experienced in **Vue.js**, **Node.js**, and **MongoDB**.  
 
 ## 🚀 My Tech Stack
