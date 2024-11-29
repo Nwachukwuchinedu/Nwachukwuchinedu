@@ -14,9 +14,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
-![Simeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simeon123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simeon123&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=simeon123&theme=radical)
+![Simeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwachukwuchinedu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwachukwuchinedu&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nwachukwuchinedu&theme=radical)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
