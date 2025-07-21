@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 ![Simeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwachukwuchinedu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwachukwuchinedu&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nwachukwuchinedu)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nwachukwuchinedu)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-nwachukwu-921188288)
