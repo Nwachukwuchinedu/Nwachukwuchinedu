@@ -1,7 +1,7 @@
 # Hi there, I'm Simeon 👋
 
 ## 🌟 About Me
-- 🎓 **Student at University of Benin**    
+- 🎓 **Graduate from University of Benin**    
 - 🌐 **Web Developer**: Experienced in **Vue.js**, **Node.js**, **MongoDB**, **React.js**, and **Python**.  
 
 ## 🚀 My Tech Stack
