@@ -18,7 +18,7 @@
 </p>
 
 ## About Me
-I am a **software developer** focused on designing and building scalable, reliable, and maintainable software systems. I enjoy solving complex problems, improving system performance, and delivering clean, production-ready solutions.
+I am a **software developer** focused on building scalable, reliable, and maintainable software systems. I enjoy solving complex problems, improving system performance, and delivering clean, production-ready solutions.
 
 I am a graduate of the **University of Benin**, with hands-on experience across the full software development lifecycle. I value clarity, strong architecture, and continuous learning.
 
@@ -28,6 +28,14 @@ I am a graduate of the **University of Benin**, with hands-on experience across 
 - Experienced in API development and database-driven systems  
 - Comfortable working independently and in collaborative teams  
 - Passionate about clean code and long-term maintainability  
+
+## Technologies & Tools
+**Languages:** JavaScript, Typescript, Python, PHP  
+**Frontend:** Vue.js, React.js, Next.js  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**DevOps & Tooling:** Docker, Kubernetes, Git, CI/CD  
+**Other:** REST APIs, System Design, Software Architecture  
 
 ## Core Competencies
 - Application development and system architecture  
