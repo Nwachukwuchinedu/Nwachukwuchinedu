@@ -1,25 +1,64 @@
-# Hi there, I'm Simeon 👋
+# Simeon 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Inter&
+    weight=600&
+    size=22&
+    duration=3000&
+    pause=1000&
+    color=36BCF7&
+    center=true&
+    vCenter=true&
+    width=700&
+    lines=Software+Developer;
+    Application+Engineer;
+    Building+Scalable+Software;
+    Turning+Ideas+Into+Products" 
+  />
+</p>
 
-## 🌟 About Me
-- 🎓 **Graduate from University of Benin**    
-- 🌐 **Web Developer**: Experienced in **Vue.js**, **Node.js**, **MongoDB**, **React.js**, and **Python**.  
+## About Me
+I am a **software developer** focused on designing and building scalable, reliable, and maintainable software systems. I enjoy solving complex problems, improving system performance, and delivering clean, production-ready solutions.
 
-## 🚀 My Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+I am a graduate of the **University of Benin**, with hands-on experience across the full software development lifecycle. I value clarity, strong architecture, and continuous learning.
 
-## 📊 GitHub Stats
-![Simeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwachukwuchinedu&show_icons=true&theme=radical)
+## Professional Summary
+- Software developer with experience delivering end-to-end applications  
+- Strong focus on system design, performance, and reliability  
+- Experienced in API development and database-driven systems  
+- Comfortable working independently and in collaborative teams  
+- Passionate about clean code and long-term maintainability  
+
+## Core Competencies
+- Application development and system architecture  
+- Backend and server-side engineering  
+- API design and system integration  
+- Database-driven application development  
+- Version control and collaborative workflows  
+- Debugging, optimization, and performance tuning  
+
+## Current Focus
+- Building scalable and reliable software solutions  
+- Improving application performance and system design  
+- Writing clean, maintainable, and well-documented code  
+- Learning advanced architectural and engineering patterns  
+
+## GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwachukwuchinedu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwachukwuchinedu&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nwachukwuchinedu)
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-nwachukwu-921188288)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://nwachukwu-simeon.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chinedu.simeon2020@gmail.com)
+## Open To
+- Software development roles  
+- Application or backend engineering opportunities  
+- Freelance or contract projects  
+- Open-source collaboration  
+
+## Let’s Connect
+- **LinkedIn:** https://www.linkedin.com/in/chinedu-nwachukwu-921188288  
+- **Portfolio:** https://nwachukwu-simeon.vercel.app/  
+- **Email:** chinedu.simeon2020@gmail.com  
+
+<p align="center">
+  <em>“Building software that scales, lasts, and makes sense.”</em>
+</p>
