@@ -53,8 +53,16 @@ I am a graduate of the **University of Benin**, with hands-on experience across 
 
 ## GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwachukwuchinedu&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwachukwuchinedu&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nwachukwuchinedu)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nwachukwuchinedu&theme=radical)](https://git.io/streak-stats)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nwachukwuchinedu&theme=radical)
+
+## ⏱ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Open To
 - Software development roles  
