@@ -62,6 +62,16 @@ I am a graduate of the **University of Benin**, with hands-on experience across 
 
 ## ⏱ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 17 mins
+
+TypeScript   10 mins         ███████████████░░░░░░░░░░   59.67 %
+INI          4 mins          ███████▒░░░░░░░░░░░░░░░░░   28.74 %
+Git Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Bash         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Open To
