@@ -58,7 +58,8 @@ I am a graduate of the **University of Benin**, with hands-on experience across 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nwachukwuchinedu&theme=radical)](https://git.io/streak-stats)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nwachukwuchinedu&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=simeonTheDev&theme=radical&layout=compact)
+
 
 ## ⏱ Weekly Development Breakdown
 <!--START_SECTION:waka-->
