@@ -65,12 +65,14 @@ I am a graduate of the **University of Benin**, with hands-on experience across 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 mins
+Total Time: 9 hrs 39 mins
 
-TypeScript   10 mins         ███████████████░░░░░░░░░░   59.67 %
-INI          4 mins          ███████▒░░░░░░░░░░░░░░░░░   28.74 %
-Git Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Bash         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+JavaScript   2 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 %
+Python       1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+Bash         1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+Terraform    58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+TypeScript   35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Markdown     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
 ```
 
 <!--END_SECTION:waka-->
