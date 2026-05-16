@@ -85,7 +85,7 @@ Markdown     27 mins         █░░░░░░░░░░░░░░░░
 
 ## Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/chinedu-nwachukwu-921188288  
-- **Portfolio:** https://nwachukwu-simeon.vercel.app/  
+- **Portfolio:** https://thesimeon.site/  
 - **Email:** chinedu.simeon2020@gmail.com  
 
 <p align="center">
