@@ -18,7 +18,7 @@
 </p>
 
 ## About Me
-I am a **software developer** focused on building scalable, reliable, and maintainable software systems. I enjoy solving complex problems, improving system performance, and delivering clean, production-ready solutions.
+I am a **software developer** focused on building scalable, reliable, and maintainable software systems. I enjoy solving complex problems, improving system performance, and delivering clean, production-ready code.
 
 I am a graduate of the **University of Benin**, with hands-on experience across the full software development lifecycle. I value clarity, strong architecture, and continuous learning.
 
@@ -30,11 +30,11 @@ I am a graduate of the **University of Benin**, with hands-on experience across 
 - Passionate about clean code and long-term maintainability  
 
 ## Technologies & Tools
-**Languages:** JavaScript, Typescript, Python, PHP  
+**Languages:** JavaScript, Typescript, Python, PHP, Shell  
 **Frontend:** Vue.js, React.js, Next.js  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL, PostgreSQL  
-**DevOps & Tooling:** Docker, Kubernetes, Git, CI/CD  
+**DevOps & Tooling:** Docker, Kubernetes, Terraform, Git, CI/CD  
 **Other:** REST APIs, System Design, Software Architecture  
 
 ## Core Competencies
@@ -42,6 +42,8 @@ I am a graduate of the **University of Benin**, with hands-on experience across 
 - Backend and server-side engineering  
 - API design and system integration  
 - Database-driven application development  
+- Infrastructure as Code (IaC) with Terraform  
+- Shell scripting and automation  
 - Version control and collaborative workflows  
 - Debugging, optimization, and performance tuning  
 
@@ -83,11 +85,11 @@ Markdown     27 mins         █░░░░░░░░░░░░░░░░
 - Freelance or contract projects  
 - Open-source collaboration  
 
-## Let’s Connect
+## Let's Connect
 - **LinkedIn:** https://www.linkedin.com/in/chinedu-nwachukwu-921188288  
 - **Portfolio:** https://thesimeon.site/  
 - **Email:** chinedu.simeon2020@gmail.com  
 
 <p align="center">
-  <em>“Building software that scales, lasts, and makes sense.”</em>
+  <em>"Building software that scales, lasts, and makes sense."</em>
 </p>
